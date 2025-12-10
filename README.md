@@ -1,4 +1,4 @@
-# ⚽ Football Tracking and Analysis System
+# ⚽ Football Vision Analytics Platform
 
 A comprehensive computer vision solution for automated football match analysis with player tracking, tactical insights, and performance metrics.
 
@@ -208,3 +208,4 @@ If you are running tests, note that the `models/` directory may be cleaned up by
 ## License
 
 This project is licensed under the MIT License.
+
