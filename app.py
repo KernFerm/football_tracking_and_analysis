@@ -217,4 +217,4 @@ def home():
     return "<h2>Football Tracking and Analysis API is running.<br>Use /api/login or /api/upload-video endpoints.</h2>"
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run()
